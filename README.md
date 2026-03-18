@@ -2,11 +2,11 @@
 
 A well-structured TypeScript environment for practicing the famous "Blind 75" LeetCode interview questions with comprehensive testing setup.
 
-## 📚 Overview
+## Overview
 
 This project provides a complete development environment for solving and testing the Blind 75 coding interview questions. It's designed to help you practice algorithmic problem-solving with proper TypeScript conventions, testing, and code organization.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -28,7 +28,7 @@ npm install
 npm test
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -46,7 +46,7 @@ src/
 └── template.ts          # Template for new solutions
 ```
 
-## 🛠️ Available Scripts
+## Available Scripts
 
 ```bash
 npm test          # Run all tests
@@ -56,7 +56,7 @@ npm build         # Compile TypeScript
 npm run dev       # Compile in watch mode
 ```
 
-## 📝 How to Use
+## How to Use
 
 ### 1. Starting a New Problem
 
@@ -90,7 +90,7 @@ export function solutionName(params: type[]): returnType {
 }
 ```
 
-## 📋 Coding Guidelines
+## Coding Guidelines
 
 - **TypeScript**: Use strict typing for all functions and variables
 - **Documentation**: Include JSDoc comments with complexity analysis
@@ -98,7 +98,7 @@ export function solutionName(params: type[]): returnType {
 - **Naming**: Use descriptive function and variable names
 - **Structure**: Follow the established folder organization
 
-## 🧪 Testing
+## Testing
 
 The project uses Jest with TypeScript support. Tests are automatically discovered in:
 
@@ -119,7 +119,7 @@ describe("Problem Name", () => {
 });
 ```
 
-## 🏗️ Common Data Structures
+## Common Data Structures
 
 The [`src/utils/data-structures.ts`](src/utils/data-structures.ts) file provides:
 
@@ -129,7 +129,7 @@ The [`src/utils/data-structures.ts`](src/utils/data-structures.ts) file provides
 - `linkedListToArray()`: Helper to convert linked lists to arrays
 - `createBinaryTree()`: Helper to create binary trees from level-order arrays
 
-## 📊 Example Problems
+## Example Problems
 
 ### Two Sum (Array)
 
@@ -143,7 +143,7 @@ The [`src/utils/data-structures.ts`](src/utils/data-structures.ts) file provides
 - **Test**: [`src/linked-lists/reverse-linked-list.test.ts`](src/linked-lists/reverse-linked-list.test.ts)
 - **Approaches**: Iterative and recursive
 
-## 🎯 Blind 75 Categories
+## Blind 75 Categories
 
 The Blind 75 list covers these key areas:
 
@@ -158,7 +158,7 @@ The Blind 75 list covers these key areas:
 9. **Tree** (11 problems)
 10. **Heap** (3 problems)
 
-## 📈 Progress Tracking
+## Progress Tracking
 
 Consider using the following checklist format in your solutions:
 
@@ -170,7 +170,7 @@ Consider using the following checklist format in your solutions:
 // [ ] Add complexity analysis
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### TypeScript Configuration
 
@@ -185,7 +185,7 @@ Consider using the following checklist format in your solutions:
 - Automatic test discovery
 - Coverage reporting available
 
-## 🤝 Contributing
+## Contributing
 
 1. Follow the established code structure
 2. Include comprehensive tests
@@ -193,14 +193,14 @@ Consider using the following checklist format in your solutions:
 4. Document time/space complexity
 5. Use descriptive commit messages
 
-## 📚 Resources
+## Resources
 
 - [Blind 75 List](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [LeetCode](https://leetcode.com/)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [Jest Documentation](https://jestjs.io/docs/getting-started)
 
-## 📄 License
+## License
 
 MIT License - feel free to use this for your interview preparation!
 
