@@ -12,7 +12,7 @@ The goal is to solve common coding problems using strict TypeScript rules and ve
 - [x] Product of Array Except Self - `src/arrays/product-except-self.ts`
 - [x] Maximum Subarray - `src/arrays/maximum-subarray.ts`
 - [x] Maximum Product Subarray - `src/arrays/maximum-product-subarray.ts`
-- [] Find Minimum in Rotated Sorted Array - `src/arrays/find-minimum-rotated.ts`
+- [x] Find Minimum in Rotated Sorted Array - `src/arrays/find-minimum-rotated.ts`
 - [] Search in Rotated Sorted Array - `src/arrays/search-rotated-array.ts`
 - [] 3Sum - `src/arrays/three-sum.ts`
 - [] Container With Most Water - `src/arrays/container-most-water.ts`
