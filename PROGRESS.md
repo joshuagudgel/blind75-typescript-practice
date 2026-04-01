@@ -17,7 +17,7 @@ The goal is to solve common coding problems using strict TypeScript rules and ve
 - [] 3Sum - `src/arrays/three-sum.ts`
 - [] Container With Most Water - `src/arrays/container-most-water.ts`
 
-**Progress: 6/12**
+**Progress: 7/12**
 
 ---
 
